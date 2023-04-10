@@ -1,0 +1,15 @@
+C:\Users\Ingrid\source\repos\Ejercicio I03 - Conversor binario\bin\Debug\net6.0\Ejercicio I03 - Conversor binario.exe
+C:\Users\Ingrid\source\repos\Ejercicio I03 - Conversor binario\bin\Debug\net6.0\Ejercicio I03 - Conversor binario.deps.json
+C:\Users\Ingrid\source\repos\Ejercicio I03 - Conversor binario\bin\Debug\net6.0\Ejercicio I03 - Conversor binario.runtimeconfig.json
+C:\Users\Ingrid\source\repos\Ejercicio I03 - Conversor binario\bin\Debug\net6.0\Ejercicio I03 - Conversor binario.dll
+C:\Users\Ingrid\source\repos\Ejercicio I03 - Conversor binario\bin\Debug\net6.0\Ejercicio I03 - Conversor binario.pdb
+C:\Users\Ingrid\source\repos\Ejercicio I03 - Conversor binario\obj\Debug\net6.0\Ejercicio I03 - Conversor binario.csproj.AssemblyReference.cache
+C:\Users\Ingrid\source\repos\Ejercicio I03 - Conversor binario\obj\Debug\net6.0\Ejercicio I03 - Conversor binario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ingrid\source\repos\Ejercicio I03 - Conversor binario\obj\Debug\net6.0\Ejercicio I03 - Conversor binario.AssemblyInfoInputs.cache
+C:\Users\Ingrid\source\repos\Ejercicio I03 - Conversor binario\obj\Debug\net6.0\Ejercicio I03 - Conversor binario.AssemblyInfo.cs
+C:\Users\Ingrid\source\repos\Ejercicio I03 - Conversor binario\obj\Debug\net6.0\Ejercicio I03 - Conversor binario.csproj.CoreCompileInputs.cache
+C:\Users\Ingrid\source\repos\Ejercicio I03 - Conversor binario\obj\Debug\net6.0\Ejercicio I03 - Conversor binario.dll
+C:\Users\Ingrid\source\repos\Ejercicio I03 - Conversor binario\obj\Debug\net6.0\refint\Ejercicio I03 - Conversor binario.dll
+C:\Users\Ingrid\source\repos\Ejercicio I03 - Conversor binario\obj\Debug\net6.0\Ejercicio I03 - Conversor binario.pdb
+C:\Users\Ingrid\source\repos\Ejercicio I03 - Conversor binario\obj\Debug\net6.0\Ejercicio I03 - Conversor binario.genruntimeconfig.cache
+C:\Users\Ingrid\source\repos\Ejercicio I03 - Conversor binario\obj\Debug\net6.0\ref\Ejercicio I03 - Conversor binario.dll
