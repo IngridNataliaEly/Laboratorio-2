@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ejercico 2 Error al cubo/1.0.0": {
+        "runtime": {
+          "Ejercico 2 Error al cubo.dll": {}
+        }
+      },
+      "ejercicio 1 Máximo, mínimo y promedio/1.0.0": {
+        "runtime": {
+          "ejercicio 1 Máximo, mínimo y promedio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercico 2 Error al cubo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ejercicio 1 Máximo, mínimo y promedio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
