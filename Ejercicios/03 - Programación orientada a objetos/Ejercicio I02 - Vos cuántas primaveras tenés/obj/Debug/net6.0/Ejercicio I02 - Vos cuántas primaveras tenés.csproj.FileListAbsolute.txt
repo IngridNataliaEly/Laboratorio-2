@@ -1,0 +1,5 @@
+C:\Users\Ingrid\source\repos\Ejercicio I02 - Vos cuántas primaveras tenés\obj\Debug\net6.0\Ejercicio I02 - Vos cuántas primaveras tenés.csproj.AssemblyReference.cache
+C:\Users\Ingrid\source\repos\Ejercicio I02 - Vos cuántas primaveras tenés\obj\Debug\net6.0\Ejercicio I02 - Vos cuántas primaveras tenés.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ingrid\source\repos\Ejercicio I02 - Vos cuántas primaveras tenés\obj\Debug\net6.0\Ejercicio I02 - Vos cuántas primaveras tenés.AssemblyInfoInputs.cache
+C:\Users\Ingrid\source\repos\Ejercicio I02 - Vos cuántas primaveras tenés\obj\Debug\net6.0\Ejercicio I02 - Vos cuántas primaveras tenés.AssemblyInfo.cs
+C:\Users\Ingrid\source\repos\Ejercicio I02 - Vos cuántas primaveras tenés\obj\Debug\net6.0\Ejercicio I02 - Vos cuántas primaveras tenés.csproj.CoreCompileInputs.cache
