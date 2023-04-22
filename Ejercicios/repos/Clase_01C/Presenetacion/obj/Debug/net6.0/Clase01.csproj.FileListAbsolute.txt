@@ -1,0 +1,15 @@
+C:\Users\Ingrid\source\repos\Clase_01C\Presenetacion\obj\Debug\net6.0\Clase01.csproj.AssemblyReference.cache
+C:\Users\Ingrid\source\repos\Clase_01C\Presenetacion\obj\Debug\net6.0\Clase01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ingrid\source\repos\Clase_01C\Presenetacion\obj\Debug\net6.0\Clase01.AssemblyInfoInputs.cache
+C:\Users\Ingrid\source\repos\Clase_01C\Presenetacion\obj\Debug\net6.0\Clase01.AssemblyInfo.cs
+C:\Users\Ingrid\source\repos\Clase_01C\Presenetacion\obj\Debug\net6.0\Clase01.csproj.CoreCompileInputs.cache
+C:\Users\Ingrid\source\repos\Clase_01C\Presenetacion\bin\Debug\net6.0\Clase01.exe
+C:\Users\Ingrid\source\repos\Clase_01C\Presenetacion\bin\Debug\net6.0\Clase01.deps.json
+C:\Users\Ingrid\source\repos\Clase_01C\Presenetacion\bin\Debug\net6.0\Clase01.runtimeconfig.json
+C:\Users\Ingrid\source\repos\Clase_01C\Presenetacion\bin\Debug\net6.0\Clase01.dll
+C:\Users\Ingrid\source\repos\Clase_01C\Presenetacion\bin\Debug\net6.0\Clase01.pdb
+C:\Users\Ingrid\source\repos\Clase_01C\Presenetacion\obj\Debug\net6.0\Clase01.dll
+C:\Users\Ingrid\source\repos\Clase_01C\Presenetacion\obj\Debug\net6.0\refint\Clase01.dll
+C:\Users\Ingrid\source\repos\Clase_01C\Presenetacion\obj\Debug\net6.0\Clase01.pdb
+C:\Users\Ingrid\source\repos\Clase_01C\Presenetacion\obj\Debug\net6.0\Clase01.genruntimeconfig.cache
+C:\Users\Ingrid\source\repos\Clase_01C\Presenetacion\obj\Debug\net6.0\ref\Clase01.dll

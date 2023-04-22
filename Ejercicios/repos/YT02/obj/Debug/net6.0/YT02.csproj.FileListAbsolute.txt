@@ -1,0 +1,15 @@
+C:\Users\Ingrid\source\repos\YT02\bin\Debug\net6.0\YT02.exe
+C:\Users\Ingrid\source\repos\YT02\bin\Debug\net6.0\YT02.deps.json
+C:\Users\Ingrid\source\repos\YT02\bin\Debug\net6.0\YT02.runtimeconfig.json
+C:\Users\Ingrid\source\repos\YT02\bin\Debug\net6.0\YT02.dll
+C:\Users\Ingrid\source\repos\YT02\bin\Debug\net6.0\YT02.pdb
+C:\Users\Ingrid\source\repos\YT02\obj\Debug\net6.0\YT02.csproj.AssemblyReference.cache
+C:\Users\Ingrid\source\repos\YT02\obj\Debug\net6.0\YT02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ingrid\source\repos\YT02\obj\Debug\net6.0\YT02.AssemblyInfoInputs.cache
+C:\Users\Ingrid\source\repos\YT02\obj\Debug\net6.0\YT02.AssemblyInfo.cs
+C:\Users\Ingrid\source\repos\YT02\obj\Debug\net6.0\YT02.csproj.CoreCompileInputs.cache
+C:\Users\Ingrid\source\repos\YT02\obj\Debug\net6.0\YT02.dll
+C:\Users\Ingrid\source\repos\YT02\obj\Debug\net6.0\refint\YT02.dll
+C:\Users\Ingrid\source\repos\YT02\obj\Debug\net6.0\YT02.pdb
+C:\Users\Ingrid\source\repos\YT02\obj\Debug\net6.0\YT02.genruntimeconfig.cache
+C:\Users\Ingrid\source\repos\YT02\obj\Debug\net6.0\ref\YT02.dll

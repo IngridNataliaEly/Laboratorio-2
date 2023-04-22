@@ -1,0 +1,15 @@
+C:\Users\Ingrid\source\repos\Ejercicio I01 - Sumador\obj\Debug\net6.0\Ejercicio I01 - Sumador.csproj.AssemblyReference.cache
+C:\Users\Ingrid\source\repos\Ejercicio I01 - Sumador\obj\Debug\net6.0\Ejercicio I01 - Sumador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ingrid\source\repos\Ejercicio I01 - Sumador\obj\Debug\net6.0\Ejercicio I01 - Sumador.AssemblyInfoInputs.cache
+C:\Users\Ingrid\source\repos\Ejercicio I01 - Sumador\obj\Debug\net6.0\Ejercicio I01 - Sumador.AssemblyInfo.cs
+C:\Users\Ingrid\source\repos\Ejercicio I01 - Sumador\obj\Debug\net6.0\Ejercicio I01 - Sumador.csproj.CoreCompileInputs.cache
+C:\Users\Ingrid\source\repos\Ejercicio I01 - Sumador\bin\Debug\net6.0\Ejercicio I01 - Sumador.exe
+C:\Users\Ingrid\source\repos\Ejercicio I01 - Sumador\bin\Debug\net6.0\Ejercicio I01 - Sumador.deps.json
+C:\Users\Ingrid\source\repos\Ejercicio I01 - Sumador\bin\Debug\net6.0\Ejercicio I01 - Sumador.runtimeconfig.json
+C:\Users\Ingrid\source\repos\Ejercicio I01 - Sumador\bin\Debug\net6.0\Ejercicio I01 - Sumador.dll
+C:\Users\Ingrid\source\repos\Ejercicio I01 - Sumador\bin\Debug\net6.0\Ejercicio I01 - Sumador.pdb
+C:\Users\Ingrid\source\repos\Ejercicio I01 - Sumador\obj\Debug\net6.0\Ejercicio I01 - Sumador.dll
+C:\Users\Ingrid\source\repos\Ejercicio I01 - Sumador\obj\Debug\net6.0\refint\Ejercicio I01 - Sumador.dll
+C:\Users\Ingrid\source\repos\Ejercicio I01 - Sumador\obj\Debug\net6.0\Ejercicio I01 - Sumador.pdb
+C:\Users\Ingrid\source\repos\Ejercicio I01 - Sumador\obj\Debug\net6.0\Ejercicio I01 - Sumador.genruntimeconfig.cache
+C:\Users\Ingrid\source\repos\Ejercicio I01 - Sumador\obj\Debug\net6.0\ref\Ejercicio I01 - Sumador.dll

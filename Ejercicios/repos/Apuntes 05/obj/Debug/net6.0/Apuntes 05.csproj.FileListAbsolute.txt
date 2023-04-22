@@ -1,0 +1,15 @@
+C:\Users\Ingrid\source\repos\Apuntes 05\bin\Debug\net6.0\Apuntes 05.exe
+C:\Users\Ingrid\source\repos\Apuntes 05\bin\Debug\net6.0\Apuntes 05.deps.json
+C:\Users\Ingrid\source\repos\Apuntes 05\bin\Debug\net6.0\Apuntes 05.runtimeconfig.json
+C:\Users\Ingrid\source\repos\Apuntes 05\bin\Debug\net6.0\Apuntes 05.dll
+C:\Users\Ingrid\source\repos\Apuntes 05\bin\Debug\net6.0\Apuntes 05.pdb
+C:\Users\Ingrid\source\repos\Apuntes 05\obj\Debug\net6.0\Apuntes 05.csproj.AssemblyReference.cache
+C:\Users\Ingrid\source\repos\Apuntes 05\obj\Debug\net6.0\Apuntes 05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ingrid\source\repos\Apuntes 05\obj\Debug\net6.0\Apuntes 05.AssemblyInfoInputs.cache
+C:\Users\Ingrid\source\repos\Apuntes 05\obj\Debug\net6.0\Apuntes 05.AssemblyInfo.cs
+C:\Users\Ingrid\source\repos\Apuntes 05\obj\Debug\net6.0\Apuntes 05.csproj.CoreCompileInputs.cache
+C:\Users\Ingrid\source\repos\Apuntes 05\obj\Debug\net6.0\Apuntes 05.dll
+C:\Users\Ingrid\source\repos\Apuntes 05\obj\Debug\net6.0\refint\Apuntes 05.dll
+C:\Users\Ingrid\source\repos\Apuntes 05\obj\Debug\net6.0\Apuntes 05.pdb
+C:\Users\Ingrid\source\repos\Apuntes 05\obj\Debug\net6.0\Apuntes 05.genruntimeconfig.cache
+C:\Users\Ingrid\source\repos\Apuntes 05\obj\Debug\net6.0\ref\Apuntes 05.dll

@@ -1,0 +1,15 @@
+C:\Users\Ingrid\source\repos\comisionE\obj\Debug\net6.0\ComisionE.csproj.AssemblyReference.cache
+C:\Users\Ingrid\source\repos\comisionE\obj\Debug\net6.0\ComisionE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ingrid\source\repos\comisionE\obj\Debug\net6.0\ComisionE.AssemblyInfoInputs.cache
+C:\Users\Ingrid\source\repos\comisionE\obj\Debug\net6.0\ComisionE.AssemblyInfo.cs
+C:\Users\Ingrid\source\repos\comisionE\obj\Debug\net6.0\ComisionE.csproj.CoreCompileInputs.cache
+C:\Users\Ingrid\source\repos\comisionE\bin\Debug\net6.0\ComisionE.exe
+C:\Users\Ingrid\source\repos\comisionE\bin\Debug\net6.0\ComisionE.deps.json
+C:\Users\Ingrid\source\repos\comisionE\bin\Debug\net6.0\ComisionE.runtimeconfig.json
+C:\Users\Ingrid\source\repos\comisionE\bin\Debug\net6.0\ComisionE.dll
+C:\Users\Ingrid\source\repos\comisionE\bin\Debug\net6.0\ComisionE.pdb
+C:\Users\Ingrid\source\repos\comisionE\obj\Debug\net6.0\ComisionE.dll
+C:\Users\Ingrid\source\repos\comisionE\obj\Debug\net6.0\refint\ComisionE.dll
+C:\Users\Ingrid\source\repos\comisionE\obj\Debug\net6.0\ComisionE.pdb
+C:\Users\Ingrid\source\repos\comisionE\obj\Debug\net6.0\ComisionE.genruntimeconfig.cache
+C:\Users\Ingrid\source\repos\comisionE\obj\Debug\net6.0\ref\ComisionE.dll

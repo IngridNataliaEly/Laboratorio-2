@@ -1,0 +1,5 @@
+C:\Users\Ingrid\source\repos\comisionE\obj\Debug\net6.0\Apuntes01.csproj.AssemblyReference.cache
+C:\Users\Ingrid\source\repos\comisionE\obj\Debug\net6.0\Apuntes01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ingrid\source\repos\comisionE\obj\Debug\net6.0\Apuntes01.AssemblyInfoInputs.cache
+C:\Users\Ingrid\source\repos\comisionE\obj\Debug\net6.0\Apuntes01.AssemblyInfo.cs
+C:\Users\Ingrid\source\repos\comisionE\obj\Debug\net6.0\Apuntes01.csproj.CoreCompileInputs.cache

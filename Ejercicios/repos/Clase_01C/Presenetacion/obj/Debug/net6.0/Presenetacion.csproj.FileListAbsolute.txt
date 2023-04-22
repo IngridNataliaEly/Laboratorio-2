@@ -1,0 +1,15 @@
+C:\Users\Ingrid\source\repos\Clase_01C\Presenetacion\bin\Debug\net6.0\Presenetacion.exe
+C:\Users\Ingrid\source\repos\Clase_01C\Presenetacion\bin\Debug\net6.0\Presenetacion.deps.json
+C:\Users\Ingrid\source\repos\Clase_01C\Presenetacion\bin\Debug\net6.0\Presenetacion.runtimeconfig.json
+C:\Users\Ingrid\source\repos\Clase_01C\Presenetacion\bin\Debug\net6.0\Presenetacion.dll
+C:\Users\Ingrid\source\repos\Clase_01C\Presenetacion\bin\Debug\net6.0\Presenetacion.pdb
+C:\Users\Ingrid\source\repos\Clase_01C\Presenetacion\obj\Debug\net6.0\Presenetacion.csproj.AssemblyReference.cache
+C:\Users\Ingrid\source\repos\Clase_01C\Presenetacion\obj\Debug\net6.0\Presenetacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ingrid\source\repos\Clase_01C\Presenetacion\obj\Debug\net6.0\Presenetacion.AssemblyInfoInputs.cache
+C:\Users\Ingrid\source\repos\Clase_01C\Presenetacion\obj\Debug\net6.0\Presenetacion.AssemblyInfo.cs
+C:\Users\Ingrid\source\repos\Clase_01C\Presenetacion\obj\Debug\net6.0\Presenetacion.csproj.CoreCompileInputs.cache
+C:\Users\Ingrid\source\repos\Clase_01C\Presenetacion\obj\Debug\net6.0\Presenetacion.dll
+C:\Users\Ingrid\source\repos\Clase_01C\Presenetacion\obj\Debug\net6.0\refint\Presenetacion.dll
+C:\Users\Ingrid\source\repos\Clase_01C\Presenetacion\obj\Debug\net6.0\Presenetacion.pdb
+C:\Users\Ingrid\source\repos\Clase_01C\Presenetacion\obj\Debug\net6.0\Presenetacion.genruntimeconfig.cache
+C:\Users\Ingrid\source\repos\Clase_01C\Presenetacion\obj\Debug\net6.0\ref\Presenetacion.dll
